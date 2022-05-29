@@ -14,6 +14,6 @@ done
 uniqs_arr=($(for i in "${test[@]}"; do echo "${i}"; done | sort -u))
 
 lenn=${#uniqs_arr[@]}
-echo "In this file there are $lenn different lecture code"
+echo "In this file there are $lenn different course code"
 
 	
