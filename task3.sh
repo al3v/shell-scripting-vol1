@@ -19,7 +19,7 @@ do
        
     fi
 done
- echo "Bu ders kodu $COUNTER tane satirda geciyor"
+ echo "This course code is on $COUNTER different lines"
 
 
 
