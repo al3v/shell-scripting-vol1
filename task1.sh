@@ -14,6 +14,6 @@ done
 uniqs_arr=($(for i in "${test[@]}"; do echo "${i}"; done | sort -u))
 
 lenn=${#uniqs_arr[@]}
-echo "Sinava $lenn farkli ogrenci girmistir"
+echo " $lenn different students enter the exam"
 
 	
